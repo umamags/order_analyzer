@@ -1,0 +1,10 @@
+Requirement
+
+Assignment 1
+Do this with 10 orders
+
+1. Read orders.json file using Pandas.
+2. Extract order times - earliest to latest
+3. Print out the complete time it takes to close an order
+
+
